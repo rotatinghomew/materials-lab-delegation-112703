@@ -1,0 +1,90 @@
+[
+  {
+    "id": "g21",
+    "issuer": "s1",
+    "subject": "s8",
+    "site": "east",
+    "parent": "",
+    "duties": [
+      "read",
+      "handover",
+      "subdelegate_read"
+    ],
+    "start": 5,
+    "end": 95
+  },
+  {
+    "id": "g22",
+    "issuer": "s2",
+    "subject": "s8",
+    "site": "east",
+    "parent": "",
+    "duties": [
+      "read",
+      "handover"
+    ],
+    "start": 5,
+    "end": 190
+  },
+  {
+    "id": "g23",
+    "issuer": "s8",
+    "subject": "s9",
+    "site": "east",
+    "parent": "g21",
+    "duties": [
+      "read"
+    ],
+    "start": 20,
+    "end": 85
+  },
+  {
+    "id": "g24",
+    "issuer": "s4",
+    "subject": "s9",
+    "site": "west",
+    "parent": "",
+    "duties": [
+      "read"
+    ],
+    "start": 20,
+    "end": 85
+  },
+  {
+    "id": "g25",
+    "issuer": "s2",
+    "subject": "s9",
+    "site": "east",
+    "parent": "",
+    "duties": [
+      "read",
+      "handover"
+    ],
+    "start": 24,
+    "end": 99
+  },
+  {
+    "id": "g26",
+    "issuer": "s4",
+    "subject": "s8",
+    "site": "west",
+    "parent": "",
+    "duties": [
+      "handover"
+    ],
+    "start": 24,
+    "end": 105
+  },
+  {
+    "id": "g27",
+    "issuer": "s4",
+    "subject": "s9",
+    "site": "west",
+    "parent": "",
+    "duties": [
+      "handover"
+    ],
+    "start": 25,
+    "end": 105
+  }
+]

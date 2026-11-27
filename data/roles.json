@@ -1,0 +1,51 @@
+[
+  {
+    "subject": "s1",
+    "site": "east",
+    "duty": "lead",
+    "starts": 0,
+    "ends": 100
+  },
+  {
+    "subject": "s2",
+    "site": "east",
+    "duty": "lead",
+    "starts": 0,
+    "ends": 200
+  },
+  {
+    "subject": "s4",
+    "site": "west",
+    "duty": "lead",
+    "starts": 0,
+    "ends": 150
+  },
+  {
+    "subject": "s8",
+    "site": "east",
+    "duty": "operator",
+    "starts": 0,
+    "ends": 200
+  },
+  {
+    "subject": "s9",
+    "site": "east",
+    "duty": "operator",
+    "starts": 0,
+    "ends": 200
+  },
+  {
+    "subject": "s8",
+    "site": "west",
+    "duty": "operator",
+    "starts": 0,
+    "ends": 200
+  },
+  {
+    "subject": "s9",
+    "site": "west",
+    "duty": "operator",
+    "starts": 0,
+    "ends": 200
+  }
+]

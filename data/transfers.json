@@ -1,0 +1,20 @@
+[
+  {
+    "id": "T11",
+    "origin": "east",
+    "destination": "west",
+    "from_principal": "s1",
+    "to_principal": "s4",
+    "revision": 1,
+    "item": "仪表 A5"
+  },
+  {
+    "id": "T12",
+    "origin": "east",
+    "destination": "west",
+    "from_principal": "s2",
+    "to_principal": "s4",
+    "revision": 1,
+    "item": "仪表 A6"
+  }
+]
